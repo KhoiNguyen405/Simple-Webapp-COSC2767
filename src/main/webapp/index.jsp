@@ -23,7 +23,7 @@
       <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
-      <p>You can also visit the SAS website for study support by clicking the button below!</p>
+      <p>You can also visit the RMIT SAS website for study support by clicking the button below!</p>
       <a class="btn btn-success btn-lg" href="https://www.rmit.edu.vn/students/support/student-academic-success" role="button">Learn more about RMIT SAS Program</a>
     </div>
     <!-- The content of the website ends here! -->
