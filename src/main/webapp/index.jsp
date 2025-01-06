@@ -25,7 +25,7 @@
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
       <p>You can also visit the RMIT SAS website for study support by clicking the button below!</p>
       <a class="btn btn-success btn-lg" href="https://www.rmit.edu.vn/students/support/student-academic-success" role="button">Learn more about RMIT SAS Program</a>
-      <h1 class="display-4">DevOps is AWESOME!!!</h1>
+      <h1 class="display-4">DevOps is SO AWESOME!!!</h1>
       <p>Here's another commit to test out the GitHub webhook!</p>
     </div>
     <!-- The content of the website ends here! -->
