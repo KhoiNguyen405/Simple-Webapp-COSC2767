@@ -5,7 +5,6 @@
 
 <p align="center">"Life is too short for a complex website!"</p>
 <p align="center">"Less is more!"</p>
-<p align="center">"Yeah!"</p>
 
 ## 📖 Description
 
